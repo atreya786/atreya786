@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://your-url-for-react-icon.com" alt="React" width="20"/> React |
   <img src="https://your-url-for-js-icon.com" alt="JavaScript" width="20"/> JavaScript |
-  <img src="https://your-url-for-html-icon.com" alt="HTML" width="20"/> HTML |
+  <img src="[https://your-url-for-html-icon.com](https://atreya-chandan.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhtml.e89c02ec.png&w=64&q=75)" alt="HTML" width="20"/> HTML |
   <img src="https://your-url-for-css-icon.com" alt="CSS" width="20"/> CSS |
   <img src="https://your-url-for-tailwindcss-icon.com" alt="Tailwind CSS" width="20"/> Tailwind CSS |
   <img src="https://your-url-for-nodejs-icon.com" alt="Node.js" width="20"/> Node.js |
