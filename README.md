@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Atreya! 👋</h1>
-  <p>Frontend Developer | Full Stack Enthusiast</p>
+  <p>Passionate Full Stack Developer</p>
 </div>
 
 <h2>Skills 🚀</h2>
@@ -19,20 +19,15 @@
 
 <h2>About Me ℹ️</h2>
 <p>
-  I'm a frontend developer with a strong passion for creating engaging user experiences. My skills in React, responsive design, and performance optimization allow me to craft web applications that leave a lasting impression. I'm currently expanding my skill set to become a full-stack web developer.
+  I'm a full stack developer with a strong passion for creating engaging user experiences. My skills in React, responsive design, and performance optimization allow me to craft web applications that leave a lasting impression. I'm currently expanding my skill set to become a full-stack web developer.
 </p>
 
 <h2>Learning 📚</h2>
 <p>
-  I'm currently diving into the world of <img src="https://your-url-for-typescript-icon.com" alt="TypeScript" width="20"/> TypeScript, <img src="https://your-url-for-mongoose-icon.com" alt="Mongoose" width="20"/> Mongoose, and <img src="https://your-url-for-expressjs-icon.com" alt="Express.js" width="20"/> Express.js to achieve my goal of becoming a full-stack developer.
+  I'm currently diving into the world of <img src="https://your-url-for-typescript-icon.com" alt="TypeScript" width="20"/> TypeScript, <img src="https://your-url-for-mongoose-icon.com" alt="Mongoose" width="20"/> Next.js to achieve my goal of becoming a master in full-stack development.
 </p>
 
 <h2>Let's Connect 🌐</h2>
 <p>
-  Feel free to connect with me on GitHub or reach out through email: your.email@example.com
-</p>
-
-<h2>Fun Fact 🎲</h2>
-<p>
-  Despite my non-CS background, I'm passionate about coding and constantly pushing my limits in the world of web development.
+  Feel free to connect with me on GitHub or reach out through email: atreyachandan786@gmail.com
 </p>
